@@ -19,7 +19,7 @@ It features real-time task tracking, persistent local storage, a live progress b
 
 ## 📁 Project Structure
 
-<pre><code>## 📁 Project Structure ```bash todo-app/ ├── index.html # Main HTML file ├── styles.css # App styling ├── scripts.js # JavaScript logic ├── images/ # Background & empty image │ ├── background1.png │ └── empty.jpg └── README.md # Project info ``` </code></pre>
+![image](https://github.com/user-attachments/assets/4b4b0e12-8eca-4765-8623-351d2457e5d0)
 
 ---
 
