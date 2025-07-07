@@ -38,7 +38,7 @@ Simply open the `index.html` file in your browser
 
 ## 🌐 Live Demo
 See the app in action:
-🔗 https://your-username.github.io/todo-app
+🔗 https://chandana-nikku.github.io/Todo-list/
 ---
 ## 📜 License
 
