@@ -19,14 +19,7 @@ It features real-time task tracking, persistent local storage, a live progress b
 
 ## 📁 Project Structure
 
-todo-app/
-├── index.html         # Main HTML file
-├── styles.css         # App styling
-├── scripts.js         # JavaScript logic
-├── images/            # Background & empty image
-│   ├── background1.png
-│   └── empty.jpg
-└── README.md          # Project info
+<pre><code>## 📁 Project Structure ```bash todo-app/ ├── index.html # Main HTML file ├── styles.css # App styling ├── scripts.js # JavaScript logic ├── images/ # Background & empty image │ ├── background1.png │ └── empty.jpg └── README.md # Project info ``` </code></pre>
 
 ---
 
@@ -44,7 +37,6 @@ todo-app/
 Simply open the `index.html` file in your browser
 
 ## 🌐 Live Demo
-
 See the app in action:
 🔗 https://your-username.github.io/todo-app
 ---
