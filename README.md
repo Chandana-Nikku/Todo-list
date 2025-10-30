@@ -38,7 +38,7 @@ Simply open the `index.html` file in your browser
 
 ## 🌐 Live Demo
 See the app in action: https://chandana-nikku.github.io/Todo-list/
----
+
 ## 📜 License
 
 This project is open-source and available under the MIT License.
