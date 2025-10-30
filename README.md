@@ -37,8 +37,7 @@ It features real-time task tracking, persistent local storage, a live progress b
 Simply open the `index.html` file in your browser
 
 ## 🌐 Live Demo
-See the app in action:
-🔗 https://chandana-nikku.github.io/Todo-list/
+See the app in action: https://chandana-nikku.github.io/Todo-list/
 ---
 ## 📜 License
 
